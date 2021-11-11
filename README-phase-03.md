@@ -65,8 +65,8 @@ After you execute the events above, your data should look like this:
 
 | id  | name   | phone      | email                       | points | time              |
 | --- | ------ | ---------- | --------------------------- | ------ | ----------------- |
-| 1   | Rachel | 1111111111 |                             | 5      | a valid date time |
-| 2   | Monica | 2222222222 | monica@friends.show         | 7      | a valid date time |
+| 1   | Rachel | 1111111111 |                             | 0      | a valid date time |
+| 2   | Monica | 2222222222 | monica@friends.show         | 2      | a valid date time |
 | 3   | Phoebe | 3333333333 | p_as_in_phoebe@friends.show | 9      | a valid date time |
 | 4   | Joey   |            | joey@friends.show           | 8      | a valid date time |
 | 6   | Ross   |            | ross@friends.show           | 10     | a valid date time |
